@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_ENHO" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <TOOL>BADI_IMPL</TOOL>
+   <SHORTTEXT>Demo</SHORTTEXT>
+   <SPOT_NAME>ZFLIGHT_EVAL_ENHANCEMENT</SPOT_NAME>
+   <IMPL>
+    <ENH_BADI_IMPL_DATA>
+     <SPOT_NAME>ZFLIGHT_EVAL_ENHANCEMENT</SPOT_NAME>
+     <BADI_NAME>ZFLIGHT_EVAL_BADI</BADI_NAME>
+     <IMPL_NAME>ZFLIGHT_EVAL_EXTENSION</IMPL_NAME>
+     <IMPL_CLASS>ZCL_FLIGHT_EVAL_BADI_IMPL</IMPL_CLASS>
+     <ACTIVE>X</ACTIVE>
+     <IMPL_SHORTTEXT>Dempo</IMPL_SHORTTEXT>
+     <IMPL_SHORTTEXT_ID>FA163EEEDC501EE9A2A2F813A0D51B98</IMPL_SHORTTEXT_ID>
+    </ENH_BADI_IMPL_DATA>
+   </IMPL>
+  </asx:values>
+ </asx:abap>
+</abapGit>
